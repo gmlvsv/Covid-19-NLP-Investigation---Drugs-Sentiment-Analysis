@@ -3,7 +3,7 @@ In our investigation we will use the "COVID-19 Open Research Dataset Challenge (
 https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge dataset. 
 
 
-![Drugs WordCloud](Drugs WordCloud.png)
+![Drugs WordCloud](Drugs%20WordCloud.png)
 
 *CORD-19 is a resource of over 63,000 scholarly articles, including over 51,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses. This freely available dataset is provided to the global research community to apply recent advances in natural language processing and other AI techniques to generate new insights in support of the ongoing fight against this infectious disease. There is a growing urgency for these approaches because of the rapid acceleration in new coronavirus literature, making it difficult for the medical research community to keep up.*
 
